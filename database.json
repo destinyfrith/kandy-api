@@ -79,7 +79,8 @@
             "productId": 3,
             "locationId": 2,
             "date": "Jan 12 2022"
-        }, {
+        },
+        {
             "id": 4,
             "customerId": 7,
             "employeeId": 2,
@@ -92,21 +93,25 @@
         {
             "id": 1,
             "name": "Reese's Peanut Butter Cup",
+            "price": 1.99,
             "productTypeId": 1
         },
         {
             "id": 2,
             "name": "Sour Patch Kids",
+            "price": 2.99,
             "productTypeId": 2
         },
         {
             "id": 3,
             "name": "Starburst",
+            "price": 1.25,
             "productTypeId": 3
         },
         {
             "id": 4,
             "name": "Warheads",
+            "price": 2.50,
             "productTypeId": 2
         }
     ],
@@ -127,17 +132,17 @@
     "locations": [
         {
             "id": 1,
-            "name": "Kamren Phillips",
+            "name": "Downtown",
             "address": "762 Braun Branch"
         },
         {
             "id": 2,
-            "name": "Estella Roberts",
+            "name": "Murfreesboro",
             "address": "89959 Hayes Mount"
         },
         {
             "id": 3,
-            "name": "Freddy Reid",
+            "name": "Berry Hill",
             "address": "212 Daniel Streets"
         }
     ]
