@@ -1,0 +1,144 @@
+{
+    "customers": [
+        {
+            "id": 1,
+            "name": "Dion Stoade"
+        },
+        {
+            "id": 2,
+            "name": "Windy Thorneloe"
+        },
+        {
+            "id": 3,
+            "name": "Hillie Phillpotts"
+        },
+        {
+            "id": 4,
+            "name": "Jobye Danielou"
+        },
+        {
+            "id": 5,
+            "name": "Gabbie Schult"
+        },
+        {
+            "id": 6,
+            "name": "Vasily Youdell"
+        },
+        {
+            "id": 7,
+            "name": "Debra Blackhurst"
+        },
+        {
+            "id": 8,
+            "name": "Helenelizabeth Passfield"
+        }
+    ],
+    "employees": [
+        {
+            "id": 1,
+            "name": "Tom Schamberger",
+            "locationId": 2
+        },
+        {
+            "id": 2,
+            "name": "Rose Schmitt",
+            "locationId": 1
+        },
+        {
+            "id": 3,
+            "name": "Aaron Brown",
+            "locationId": 3
+        },
+        {
+            "id": 4,
+            "name": "Ryan Plant",
+            "locationId": 2
+        }
+    ],
+    "purchases": [
+        {
+            "id": 1,
+            "customerId": 4,
+            "employeeId": 1,
+            "productId": 2,
+            "locationId": 2,
+            "date": "Sep 29 2021"
+        },
+        {
+            "id": 2,
+            "customerId": 2,
+            "employeeId": 4,
+            "productId": 1,
+            "locationId": 1,
+            "date": "Jan 05 2022"
+        },
+        {
+            "id": 3,
+            "customerId": 1,
+            "employeeId": 4,
+            "productId": 3,
+            "locationId": 2,
+            "date": "Jan 12 2022"
+        }, {
+            "id": 4,
+            "customerId": 7,
+            "employeeId": 2,
+            "productId": 2,
+            "locationId": 1,
+            "date": "Jan 07 2022"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "Reese's Peanut Butter Cup",
+            "productTypeId": 1
+        },
+        {
+            "id": 2,
+            "name": "Sour Patch Kids",
+            "productTypeId": 2
+        },
+        {
+            "id": 3,
+            "name": "Starburst",
+            "productTypeId": 3
+        },
+        {
+            "id": 4,
+            "name": "Warheads",
+            "productTypeId": 2
+        }
+    ],
+    "productType": [
+        {
+            "id": 1,
+            "type": "chocolate"
+        },
+        {
+            "id": 2,
+            "type": "sour"
+        },
+        {
+            "id": 3,
+            "type": "fruity"
+        }
+    ],
+    "locations": [
+        {
+            "id": 1,
+            "name": "Kamren Phillips",
+            "address": "762 Braun Branch"
+        },
+        {
+            "id": 2,
+            "name": "Estella Roberts",
+            "address": "89959 Hayes Mount"
+        },
+        {
+            "id": 3,
+            "name": "Freddy Reid",
+            "address": "212 Daniel Streets"
+        }
+    ]
+}
