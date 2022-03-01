@@ -145,5 +145,27 @@
             "name": "Berry Hill",
             "address": "212 Daniel Streets"
         }
+    ],
+    "productLocations": [
+        {
+            "id": 1,
+            "locationId": 2,
+            "productId": 4
+        },
+        {
+            "id": 2,
+            "locationId": 2,
+            "productId": 2
+        },
+        {
+            "id": 3,
+            "locationId": 1,
+            "productId": 4
+        },
+        {
+            "id": 4,
+            "locationId": 3,
+            "productId": 1
+        }
     ]
 }
