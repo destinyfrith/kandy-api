@@ -115,7 +115,7 @@
             "productTypeId": 2
         }
     ],
-    "productType": [
+    "productTypes": [
         {
             "id": 1,
             "type": "chocolate"
