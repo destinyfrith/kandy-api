@@ -37,22 +37,34 @@
         {
             "id": 1,
             "name": "Tom Schamberger",
-            "locationId": 2
+            "locationId": 2,
+            "manager": true,
+            "fullTime": true,
+            "hourlyRate": 15
         },
         {
             "id": 2,
             "name": "Rose Schmitt",
-            "locationId": 1
+            "locationId": 1,
+            "manager": true,
+            "fullTime": true,
+            "hourlyRate": 14
         },
         {
             "id": 3,
             "name": "Aaron Brown",
-            "locationId": 3
+            "locationId": 3,
+            "manager": false,
+            "fullTime": false,
+            "hourlyRate": 13
         },
         {
             "id": 4,
             "name": "Ryan Plant",
-            "locationId": 2
+            "locationId": 2,
+            "manager": false,
+            "fullTime": true,
+            "hourlyRate": 17
         }
     ],
     "purchases": [
