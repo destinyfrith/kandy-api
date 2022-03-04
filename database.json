@@ -65,6 +65,36 @@
             "manager": false,
             "fullTime": true,
             "hourlyRate": 17
+        },
+        {
+            "name": "Hannah Barnes",
+            "locationId": 3,
+            "fullTime": true,
+            "hourlyRate": "23",
+            "id": 5
+        },
+        {
+            "name": "Andrew Cherry",
+            "locationId": 1,
+            "fullTime": true,
+            "hourlyRate": "12",
+            "id": 6
+        },
+        {
+            "name": "Brad Brown",
+            "locationId": 3,
+            "fullTime": true,
+            "manager": true,
+            "hourlyRate": "5",
+            "id": 7
+        },
+        {
+            "name": "Steven Greer",
+            "locationId": 2,
+            "fullTime": false,
+            "manager": true,
+            "hourlyRate": 12,
+            "id": 8
         }
     ],
     "purchases": [
@@ -123,7 +153,7 @@
         {
             "id": 4,
             "name": "Warheads",
-            "price": 2.50,
+            "price": 2.5,
             "productTypeId": 2
         }
     ],
