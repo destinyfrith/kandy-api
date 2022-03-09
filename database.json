@@ -95,14 +95,6 @@
             "manager": true,
             "hourlyRate": "5",
             "id": 7
-        },
-        {
-            "name": "Steven Greer",
-            "locationId": 2,
-            "fullTime": false,
-            "manager": true,
-            "hourlyRate": 12,
-            "id": 8
         }
     ],
     "purchases": [
@@ -133,36 +125,6 @@
             "employeeId": 2,
             "productId": 2,
             "locationId": 1
-        },
-        {
-            "locationId": 1,
-            "employeeId": 1,
-            "customerId": 1,
-            "id": 7
-        },
-        {
-            "locationId": 1,
-            "employeeId": 1,
-            "customerId": 1,
-            "id": 8
-        },
-        {
-            "locationId": 1,
-            "employeeId": 1,
-            "customerId": 1,
-            "id": 9
-        },
-        {
-            "locationId": 1,
-            "employeeId": 1,
-            "customerId": 1,
-            "id": 10
-        },
-        {
-            "locationId": 1,
-            "employeeId": 1,
-            "customerId": 1,
-            "id": 11
         }
     ],
     "products": [
